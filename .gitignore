@@ -1,3 +1,5 @@
 .DS_Store
 *.skill
 pyramid-rewriter-workspace/
+__pycache__/
+*.pyc
